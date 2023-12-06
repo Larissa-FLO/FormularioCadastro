@@ -17,7 +17,7 @@ body{
 
 .imagem{
 display: flex;
-padding: 60px;
+padding: 59px;
 width: 600px;
 height: 800px;
 background-image: url("../Login/imagemlogin.png");
