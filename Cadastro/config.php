@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 $Dbserv = 'localhost';
 $Dbuser = 'root';
@@ -8,4 +8,4 @@ $Dbname = 'DbForm';
 $conexao = new mysqli($Dbserv, $Dbuser, $Dbpassword, $Dbname);  
 
 
-?>
+?> -->
